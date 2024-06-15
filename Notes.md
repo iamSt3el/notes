@@ -1,3 +1,5 @@
+
+# [[UseFull Tips]]
 # DSA Notes
 
 ## [[Array]] 
@@ -27,3 +29,8 @@
 
 ## [[Node.js]]
 
+## [[HTML]]
+
+## [[CSS]]
+
+## [[JavaScript]]
